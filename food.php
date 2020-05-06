@@ -46,7 +46,7 @@ ulang:
         $uuid = getStr('"resource_owner_id":',',',$verif);
         echo color("nevy","+] Your access token : ".$token."\n\n");
         save("token.txt",$token);
-        echo color("nevy","\n▬▬▬▬▬▬▬▬▬▬▬▬🛠AUTO REDEEM VOUCHER GOJEK🛠▬▬▬▬▬▬▬▬▬▬▬▬");
+        echo color("nevy","\n▬▬▬▬▬▬▬▬▬▬▬▬🛠VOUCHER FOOD TEAM GASBARENG SIDOARJO🛠▬▬▬▬▬▬▬▬▬▬▬▬");
         echo "\n".color("nevy","🔒▶️ Claim voc EBADAHNGIRIM");
         echo "\n".color("yellow","⏳▶️ Sabar");
         for($a=1;$a<=3;$a++){
